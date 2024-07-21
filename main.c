@@ -10,4 +10,5 @@ int main() {
     PrintColorCodingManual();
 
     return 0;
+    
 }
